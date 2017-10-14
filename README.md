@@ -1,10 +1,3 @@
----
-
-## Important note
-
-Ta4j is not maintained by Marc de Verdelhan anymore. Future PRs and issues will not be treated here. See [#192](https://github.com/mdeverdelhan/ta4j/issues/192) for more information. This repository is kept for archival purposes and may be used as documentation for ta4j 0.9 (which is a stable version).
-
-The community decided to take over the project and continue to maintain it. The new repository is available at https://github.com/ta4j/ta4j.
 
 ---
 
